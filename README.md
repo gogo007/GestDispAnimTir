@@ -5,4 +5,4 @@
 - Gérer des comptes utilisateurs (prenom, mail, mdp). 
 - Gestion des saisies des disponibilités (dispo/indispo par créneau)
 - Envois de mail auto pour rappeler qu'il manque quelqu'un sur un créneau. 
-- Affichage du planning sur le site
+- Affichage du planning sur le site (génération JSON ?)
